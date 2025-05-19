@@ -1,14 +1,14 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
-KDE_ORG_COMMIT="75279b03791c65953b0f5a921cf4b539298ad445"
+KDE_ORG_COMMIT="1908ed458a73810df9597ad399fb11b5a81de6c0"
 
 QT5_MODULE="qtbase"
 VIRTUALX_REQUIRED="test"
 inherit qt5-build
 
 DESCRIPTION="Printing support library for the Qt5 framework"
-SRC_URI="https://invent.kde.org/qt/qt/qtbase/-/archive/75279b03791c65953b0f5a921cf4b539298ad445/qtbase-75279b03791c65953b0f5a921cf4b539298ad445.tar.bz2 -> qtbase-75279b03791c65953b0f5a921cf4b539298ad445.tar.bz2"
+SRC_URI="https://invent.kde.org/qt/qt/qtbase/-/archive/1908ed458a73810df9597ad399fb11b5a81de6c0/qtbase-1908ed458a73810df9597ad399fb11b5a81de6c0.tar.bz2 -> qtbase-1908ed458a73810df9597ad399fb11b5a81de6c0.tar.bz2"
 
 KEYWORDS="*"
 
